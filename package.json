@@ -1,0 +1,27 @@
+{
+  "name": "@neumatter/arithmetic",
+  "version": "1.0.0",
+  "description": "Math utils.",
+  "type": "module",
+  "author": "Cal Young",
+  "repository": {
+    "url": "https://github.com/Clyng57/arithmetic"
+  },
+  "keywords": [
+    "arithmetic",
+    "browser",
+    "math",
+    "nodejs",
+    "javascript",
+    "module",
+    "node",
+    "es6"
+  ],
+  "main": "./index.js",
+  "types": "./types/index.d.ts",
+  "standard": {
+    "ignore": [
+      "/types"
+    ]
+  }
+}
